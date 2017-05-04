@@ -1,3 +1,3 @@
 # hello-world
 
-I am solving credit risk problems with statistical models and I would like to solve even more problems in the world using Machine Learning.
+I made a mistake and made all the changes in the master so do not have anything to compare with the master in the end
